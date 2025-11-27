@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Gallery Dashboard",
+  "version": "1.0",
+  "description": "Offline dashboard na prehliadanie videí s importom TXT zoznamu.",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icons/icon-192.png",
+      "32": "icons/icon-192.png",
+      "48": "icons/icon-192.png",
+      "128": "icons/icon-512.png"
+    },
+    "default_title": "Gallery Dashboard"
+  },
+  "icons": {
+    "128": "icons/icon-512.png"
+  },
+  "permissions": []
+}
